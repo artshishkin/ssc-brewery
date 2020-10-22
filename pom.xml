@@ -29,8 +29,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>guru.springframework</groupId>
-    <artifactId>scc-brewery</artifactId>
+    <groupId>com.artarkatesoft.securitystudy</groupId>
+    <artifactId>art-sfg-security-study</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <description>SFG Brewery Spring MVC Monolith</description>
