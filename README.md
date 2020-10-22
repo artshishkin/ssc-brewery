@@ -1,10 +1,15 @@
-# Brewery Spring MVC Monolith
+[![CircleCI](https://circleci.com/gh/artshishkin/ssc-brewery.svg?style=svg)](https://circleci.com/gh/artshishkin/ssc-brewery)
+![Spring Boot version][springver]
+![Project licence][licence]
+ 
+# Spring Security Core: Beginner to Guru
 
-This repository contains source code examples used to support my on-line courses about the Spring Framework.
+## Tutorial from SpringFrameworkGuru (Udemy)
 
-You can learn more about the courses here:
-* [Spring Security Core: Beginner to Guru](https://www.udemy.com/course/spring-security-core-beginner-to-guru/?referralCode=306F288EB78688C0F3BC)
-* [Spring Boot Microservices with Spring Cloud](https://www.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru/?referralCode=6142D427AE53031FEF38)
-* [Spring Framework 5: Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/?referralCode=6D9ECD1F93988FEE5CE9)
-* [Testing Spring Boot: Beginner to Guru](https://www.udemy.com/course/testing-spring-boot-beginner-to-guru/?referralCode=EFFE87DDE96C8541B2EE)
-* [Apache Maven: Beginner to Guru](https://www.udemy.com/course/apache-maven-beginner-to-guru/?referralCode=0B91047D034706031F51)
+### Brewery Spring MVC Monolith
+
+
+
+
+[springver]: https://img.shields.io/badge/dynamic/xml?label=Spring%20Boot&query=%2F%2A%5Blocal-name%28%29%3D%27project%27%5D%2F%2A%5Blocal-name%28%29%3D%27parent%27%5D%2F%2A%5Blocal-name%28%29%3D%27version%27%5D&url=https%3A%2F%2Fraw.githubusercontent.com%2Fartshishkin%2Fssc-brewery%2Fmaster%2Fpom.xml&logo=Spring&labelColor=white&color=grey
+[licence]: https://img.shields.io/github/license/artshishkin/ssc-brewery.svg
